@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8799
     wikipedia: http://en.wikipedia.org/wiki/Charles_Alexander_McMurry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19659#The-Elements-of-General-MethodBased-on-the-Principles-of-Herbart
 gutenberg_issued: '2006-10-29'
 gutenberg_type: Text
 identifiers:
