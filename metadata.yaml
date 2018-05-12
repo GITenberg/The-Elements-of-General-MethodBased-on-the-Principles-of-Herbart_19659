@@ -1,0 +1,30 @@
+_repo: The-Elements-of-General-MethodBased-on-the-Principles-of-Herbart_19659
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McMurry, Charles A. (Charles Alexander)
+    alias: McMurry, Charles Alexander
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '8799'
+    url: http://www.gutenberg.org/2009/agents/8799
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Alexander_McMurry
+description: ''
+gutenberg_issued: '2006-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Teaching'
+- !lcsh 'Herbart, Johann Friedrich, 1776-1841'
+- !lcsh 'Education'
+title: The Elements of General Method, Based on the Principles of Herbart
+url: http://www.gutenberg.org/ebooks/19659
